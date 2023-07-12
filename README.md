@@ -6,3 +6,8 @@ Student Details:
 - Name: MENDA ARUN TEJA
 - Branch: CSE
 - College: RGUKT NUZVID
+
+
+IOT Video Link
+ - remote controlled car: https://youtu.be/WbOrMYMn2Tk
+ - SmartBins Video Link: https://youtu.be/p3hyuYqOmvI
